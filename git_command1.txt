@@ -8,4 +8,12 @@ git --paginate help -a
 git help -g
 git help glossary
 
-# リポジトリの作り方と
+# リポジトリの作り方と使い方
+git init
+git status
+git add .
+git commit -m "hoge"
+git log
+git log --stat
+git ls-files
+
