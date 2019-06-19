@@ -1,0 +1,11 @@
+# gitに馴染む
+git config --global user.email "kkk@kk.co.jp"
+git config user.name
+git config user.email
+git help help
+git help -a
+git --paginate help -a
+git help -g
+git help glossary
+
+# リポジトリの作り方と
