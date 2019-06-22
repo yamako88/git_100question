@@ -25,3 +25,5 @@ git add --dry-run .
 git add .
 git log --shortstat --oneline
 
+2日目
+
