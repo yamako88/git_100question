@@ -17,3 +17,11 @@ git log
 git log --stat
 git ls-files
 
+# ファイルの追跡と更新
+git diff
+git commit -a -m "hoge"
+★git diff --staged
+git add --dry-run .
+git add .
+git log --shortstat --oneline
+
